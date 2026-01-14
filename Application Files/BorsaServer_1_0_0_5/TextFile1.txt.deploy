@@ -1,0 +1,24 @@
+﻿
+) (لأرصدة عميل محدد)
+
+LoadLastTransactionInfo(int customerId) (لآخر إيداع/سحب)
+
+OpenGeneralReportDialog() (الجزء الذي يحسب totalBalancesByCurrencyDt)
+
+AddDetailedAllTransactionsSummary(...)
+
+AddCurrencyDebtDistributionChart(...)
+
+AddCurrencyDistributionChart(...) (الجزء الذي يحسب totalPositiveBalance)
+
+AddAllCustomerBalanceDistributionChart(...)
+
+DisplayCustomerGeneralTransactionInfo(...)
+
+DisplayCustomerTransactionsAsFormattedText(...)
+
+dgvFilter_CellDoubleClick(...)
+
+GetCustomerBalance(...)
+
+ProcessAmnTransaction(...)
